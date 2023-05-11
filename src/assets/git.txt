@@ -1,0 +1,760 @@
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+
+You can now view frontend in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.0.112:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+
+You can now view frontend in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.0.112:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+
+You can now view frontend in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.0.112:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+
+You can now view frontend in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.0.112:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+
+You can now view frontend in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.0.112:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+
+You can now view frontend in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.0.112:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+
+You can now view frontend in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.0.112:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+Compiling...
+Compiled successfully!
+
+You can now view frontend in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.0.112:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+
+ *  History restored 
+
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice^C
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice cd frontend
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontendnpm run dev
+npm ERR! Missing script: "dev"
+Compiled successfully!
+
+You can now view frontend in the browser.
+
+  Local:            http://localhost:3000
+  On Your Network:  http://192.168.0.100:3000
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+webpack compiled successfully
+
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend 
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend git init
+Initialized empty Git repository in C:/Users/jubbi/OneDrive/Desktop/Juice/frontend/.git/
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend cd ..
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git init
+Initialized empty Git repository in C:/Users/jubbi/OneDrive/Desktop/Juice/.git/
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git add .
+warning: LF will be replaced by CRLF in .hintrc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/.eslintrc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/.gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/abouts.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/brands.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/contact.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/experiences.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/skills.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/testimonials.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/workExperience.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/works.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/static/.gitkeep.
+The file will have its original line endings in your working directory
+error: 'frontend/' does not have a commit checked out
+fatal: adding files failed
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git commit -m "Initial commit"
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .hintrc
+        backend_sanity/
+        frontend/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git add fronted
+fatal: pathspec 'fronted' did not match any files
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git add frontend
+error: 'frontend/' does not have a commit checked out
+fatal: adding files failed
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git add .
+warning: LF will be replaced by CRLF in .hintrc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/.eslintrc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/.gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/abouts.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/brands.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/contact.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/experiences.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/skills.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/testimonials.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/workExperience.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/works.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/static/.gitkeep.
+The file will have its original line endings in your working directory
+error: 'frontend/' does not have a commit checked out
+fatal: adding files failed
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git add .
+warning: LF will be replaced by CRLF in .hintrc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/.eslintrc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/.gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/abouts.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/brands.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/contact.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/experiences.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/skills.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/testimonials.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/workExperience.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/works.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/static/.gitkeep.
+The file will have its original line endings in your working directory
+error: 'frontend/' does not have a commit checked out
+fatal: adding files failed
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juicegit commit -m "Initial commit"
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .hintrc
+        backend_sanity/
+        frontend/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git add frontend/
+error: 'frontend/' does not have a commit checked out
+fatal: adding files failed
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juicegit add .
+warning: LF will be replaced by CRLF in .hintrc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/.eslintrc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/.gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/abouts.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/brands.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/contact.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/experiences.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/skills.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/testimonials.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/workExperience.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/works.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/static/.gitkeep.
+The file will have its original line endings in your working directory
+error: 'frontend/' does not have a commit checked out
+fatal: adding files failed
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juicegit commit -m "Initial commit"
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .hintrc
+        backend_sanity/
+        frontend/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice cd frontend
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend git add .
+warning: LF will be replaced by CRLF in .gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in postcss.config.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in public/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in public/manifest.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in public/robots.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/App.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/App.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/assets/circle.svg.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/assets/logo.svg.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/client.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/components/Navbar/Navbar.jsx.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/components/NavigationDots.jsx.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/components/SocialMedia.jsx.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/components/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/constants/images.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/constants/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/container/About/About.jsx.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/container/About/About.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/container/Footer/Footer.jsx.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/container/Footer/Footer.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/container/Header/Header.jsx.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/container/Header/Header.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/container/Skills/Skills.jsx.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/container/Skills/Skills.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/container/Testimonial/Testimonial.jsx.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/container/Testimonial/Testimonial.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/container/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/index.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/wrapper/AppWrap.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/wrapper/MotionWrap.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/wrapper/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in tailwind.config.js.
+The file will have its original line endings in your working directory
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend cd ..
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice cd backend_sanity
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/backend_sanity git add .
+warning: LF will be replaced by CRLF in backend_sanity/.eslintrc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/.gitignore.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/abouts.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/brands.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/contact.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/experiences.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/skills.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/testimonials.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/workExperience.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/schemas/works.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in backend_sanity/static/.gitkeep.
+The file will have its original line endings in your working directory
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/backend_sanity cd ..
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git commit -m "Add untracked files"
+[master (root-commit) 6126046] Add untracked files
+ 17 files changed, 18456 insertions(+)
+ create mode 100644 backend_sanity/.eslintrc
+ create mode 100644 backend_sanity/.gitignore
+ create mode 100644 backend_sanity/README.md
+ create mode 100644 backend_sanity/package-lock.json
+ create mode 100644 backend_sanity/package.json
+ create mode 100644 backend_sanity/sanity.cli.js
+ create mode 100644 backend_sanity/sanity.config.js
+ create mode 100644 backend_sanity/schemas/abouts.js
+ create mode 100644 backend_sanity/schemas/brands.js
+ create mode 100644 backend_sanity/schemas/contact.js
+ create mode 100644 backend_sanity/schemas/experiences.js
+ create mode 100644 backend_sanity/schemas/index.js
+ create mode 100644 backend_sanity/schemas/skills.js
+ create mode 100644 backend_sanity/schemas/testimonials.js
+ create mode 100644 backend_sanity/schemas/workExperience.js
+ create mode 100644 backend_sanity/schemas/works.js
+ create mode 100644 backend_sanity/static/.gitkeep
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git init
+Reinitialized existing Git repository in C:/Users/jubbi/OneDrive/Desktop/Juice/.git/
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git remote add origin https://github.com/JubairShaik/Juice.git
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juicegit branch -M main
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juicegit push -u origin main
+Enumerating objects: 22, done.
+Counting objects: 100% (22/22), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (19/19), done.
+Writing objects: 100% (22/22), 196.38 KiB | 5.45 MiB/s, done.
+Total 22 (delta 5), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (5/5), done.
+To https://github.com/JubairShaik/Juice.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice cd fronend
+bash: cd: fronend: No such file or directory
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice cd frontend
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend git add .
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontendgit commit -m "Initial commit"
+[master (root-commit) 99452c6] Initial commit
+ 89 files changed, 33666 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 README.md
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+ create mode 100644 postcss.config.js
+ create mode 100644 public/favicon.ico
+ create mode 100644 public/index.html
+ create mode 100644 public/logo192.png
+ create mode 100644 public/manifest.json
+ create mode 100644 public/robots.txt
+ create mode 100644 src/App.js
+ create mode 100644 src/App.scss
+ create mode 100644 src/assets/Badammilk.jpg
+ create mode 100644 src/assets/IceCream.webp
+ create mode 100644 src/assets/badam.jpg
+ create mode 100644 src/assets/berry.png
+ create mode 100644 src/assets/bgIMG.png
+ create mode 100644 src/assets/bgWhite.png
+ create mode 100644 src/assets/bigCake.jpg
+ create mode 100644 src/assets/cake.jpg
+ create mode 100644 src/assets/choco.jpg
+ create mode 100644 src/assets/chocol.jpg
+ create mode 100644 src/assets/circle.svg
+ create mode 100644 src/assets/close.svg
+ create mode 100644 src/assets/comp.png
+ create mode 100644 src/assets/cpp.png
+ create mode 100644 src/assets/css.png
+ create mode 100644 src/assets/dragon.jpg
+ create mode 100644 src/assets/email.png
+ create mode 100644 src/assets/fampack.jpg
+ create mode 100644 src/assets/ice.jpg
+ create mode 100644 src/assets/iceCreamKid.png
+ create mode 100644 src/assets/icee.png
+ create mode 100644 src/assets/icey.png
+ create mode 100644 src/assets/index.js
+ create mode 100644 src/assets/itc.png
+ create mode 100644 src/assets/javascript.png
+ create mode 100644 src/assets/kidice.png
+ create mode 100644 src/assets/kids.jpg
+ create mode 100644 src/assets/kiwi.jpg
+ create mode 100644 src/assets/lemon.png
+ create mode 100644 src/assets/logo.svg
+ create mode 100644 src/assets/mango.jpg
+ create mode 100644 src/assets/menu.svg
+ create mode 100644 src/assets/mobile.png
+ create mode 100644 src/assets/mu5.png
+ create mode 100644 src/assets/nesle.png
+ create mode 100644 src/assets/orange.jpg
+ create mode 100644 src/assets/oranges.jpg
+ create mode 100644 src/assets/rose.jpg
+ create mode 100644 src/assets/sass.png
+ create mode 100644 src/assets/specials.jpg
+ create mode 100644 src/assets/straberry.png
+ create mode 100644 src/assets/swiggy.png
+ create mode 100644 src/assets/swiggy2.png
+ create mode 100644 src/assets/thick.jpg
+ create mode 100644 src/assets/threeice.jpg
+ create mode 100644 src/assets/zomato.png
+ create mode 100644 src/client.js
+ create mode 100644 src/components/FoodItems.jsx
+ create mode 100644 src/components/Items.jsx
+ create mode 100644 src/components/Navbar/Items.jsx
+ create mode 100644 src/components/Navbar/Navbar.jsx
+ create mode 100644 src/components/NavigationDots.jsx
+ create mode 100644 src/components/Slider.jsx
+ create mode 100644 src/components/SocialMedia.jsx
+ create mode 100644 src/components/index.js
+ create mode 100644 src/components/laayout.jsx
+ create mode 100644 src/components/themeContext.js
+ create mode 100644 src/constants/images.js
+ create mode 100644 src/constants/index.js
+ create mode 100644 src/container/About/About.jsx
+ create mode 100644 src/container/About/About.scss
+ create mode 100644 src/container/Footer/Footer.jsx
+ create mode 100644 src/container/Footer/Footer.scss
+ create mode 100644 src/container/Header/Header.jsx
+ create mode 100644 src/container/Header/Header.scss
+ create mode 100644 src/container/Skills/Skills.jsx
+ create mode 100644 src/container/Skills/Skills.scss
+ create mode 100644 src/container/Testimonial/Testimonial.jsx
+ create mode 100644 src/container/Testimonial/Testimonial.scss
+ create mode 100644 src/container/index.js
+ create mode 100644 src/index.css
+ create mode 100644 src/index.js
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend cd  ..
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juicegit push -u origin main
+Everything up-to-date
+branch 'main' set up to track 'origin/main'.
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .hintrc
+        frontend/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git add .
+warning: LF will be replaced by CRLF in .hintrc.
+The file will have its original line endings in your working directory
+warning: adding embedded git repository: frontend
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint:
+hint:   git submodule add <url> frontend
+hint:
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint:
+hint:   git rm --cached frontend
+hint:
+hint: See "git help submodule" for more information.
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice cd frontend 
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend git commit -m  'frontend Commit '
+On branch master
+nothing to commit, working tree clean
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend git push origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+Everything up-to-date
+branch 'main' set up to track 'origin/main'.
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice cd frontend
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend git add .
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend git branch -M main
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend git push -u origin main
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend  git remote add origin https://github.com/JubairShaik/Juice.git
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend  git remote add origin https://github.com/JubairShaik/Juice.git
+error: remote origin already exists.
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend git branch -M main
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend git push -u origin main
+To https://github.com/JubairShaik/Juice.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/JubairShaik/Juice.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend git pull origin main
+remote: Enumerating objects: 22, done.
+remote: Counting objects: 100% (22/22), done.
+remote: Compressing objects: 100% (14/14), done.
+remote: Total 22 (delta 5), reused 22 (delta 5), pack-reused 0
+Unpacking objects: 100% (22/22), 196.36 KiB | 435.00 KiB/s, done.
+From https://github.com/JubairShaik/Juice
+ * branch            main       -> FETCH_HEAD
+ * [new branch]      main       -> origin/main
+fatal: refusing to merge unrelated histories
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend git add .
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontendgit commit -m "Merge remote changes"
+[main 6b1f709] Merge remote changes
+ 1 file changed, 11 insertions(+)
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend git push origin main
+To https://github.com/JubairShaik/Juice.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/JubairShaik/Juice.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend cd ..
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git push origin main
+Everything up-to-date
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice cd frontend
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontend git add .
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice/frontendcd ..
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git commit -m "frontend Files"
+[main 91c0134] frontend Files
+ 2 files changed, 16 insertions(+)
+ create mode 100644 .hintrc
+ create mode 160000 frontend
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git init
+Reinitialized existing Git repository in C:/Users/jubbi/OneDrive/Desktop/Juice/.git/
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git remote add origin https://github.com/JubairShaik/Juice.git
+error: remote origin already exists.
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice branch -M main
+bash: branch: command not found
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git remote -v
+origin  https://github.com/JubairShaik/Juice.git (fetch)
+origin  https://github.com/JubairShaik/Juice.git (push)
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git remote set-url origin <new-repo-url>
+bash: syntax error near unexpected token `newline'
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git remote set-url origin  https://github.com/JubairShaik/Juice.git
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git branch -M main
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice push -u origin main
+bash: push: command not found
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git push -u origin main
+To https://github.com/JubairShaik/Juice.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/JubairShaik/Juice.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice git pull
+remote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 689 bytes | 36.00 KiB/s, done.
+From https://github.com/JubairShaik/Juice
+   6126046..00408f2  main       -> origin/main
+Merge made by the 'ort' strategy.
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+jubbi@JUBBI MINGW64 ~/OneDrive/Desktop/Juice  git push -u origin main
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (5/5), 713 bytes | 713.00 KiB/s, done.
+Total 5 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/JubairShaik/Juice.git
+   00408f2..d617210  main -> main
+branch 'main' set up to track 'origin/main'.
